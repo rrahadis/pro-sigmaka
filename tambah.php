@@ -14,7 +14,7 @@
   <body>
   <!-- Image and text -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-  <a class="navbar-brand" href="#">data mahasiswa</a>
+  <a class="navbar-brand" href="index.php">data mahasiswa</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -32,7 +32,7 @@
 		<div class="col-md-12">
 			<div class="panel panel-warning">
 				<div class="panel-heading">
-					<h3 class="panel-title">Panel title</h3>
+					<h3 class="panel-title">Tambah Data</h3>
 				</div>
 				<div class="panel-body">
 					<form class="form-horizontal" method="post" action="simpan.php">
